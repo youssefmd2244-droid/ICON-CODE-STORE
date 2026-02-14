@@ -1,0 +1,60 @@
+{
+  "storeName": "ICON CODE STORE",
+  "logo": "https://cdn-icons-png.flaticon.com/512/1170/1170678.png",
+  "currency": "EGP",
+  "language": "ar",
+  "primaryColor": "#6366f1",
+  "secondaryColor": "#8b5cf6",
+  "accentColor": "#ec4899",
+  "bgColor": "#0f0f23",
+  "trustBadge": null,
+  "categories": [
+    "الرئيسية"
+  ],
+  "products": [],
+  "links": {
+    "order1": {
+      "label": "اطلب 1",
+      "url": "https://wa.me/201094555299"
+    },
+    "order2": {
+      "label": "اطلب 2",
+      "url": "https://wa.me/201102293350"
+    },
+    "order3": {
+      "label": "اطلب 3",
+      "url": ""
+    },
+    "order4": {
+      "label": "اطلب 4",
+      "url": ""
+    },
+    "contact1": {
+      "label": "تواصل معنا",
+      "url": "https://wa.me/201094555299"
+    },
+    "contact2": {
+      "label": "تواصل معنا 2",
+      "url": "https://wa.me/201102293350"
+    }
+  },
+  "companyInfo": {
+    "name": "ICON CODE - Software Company",
+    "description": "شركة متخصصة في إنشاء وتطوير المواقع الإلكترونية والمتاجر والأنظمة | مونتاج الفيديو | تصميم اللوجوهات | التصميم الهندسي 3D | التسويق عبر جميع المنصات وإعلانات جوجل | التصميم الجرافيكي",
+    "slogan": "الرقم واحد في مجال البرمجة والذكاء الاصطناعي",
+    "founders": [
+      {
+        "name": "يوسف محمد",
+        "role": "مهندس برمجيات",
+        "phone": "01094555299",
+        "whatsapp": "https://wa.me/201094555299"
+      },
+      {
+        "name": "عمر محمد",
+        "role": "مؤسس البرمجيات",
+        "phone": "01102293350",
+        "whatsapp": "https://wa.me/201102293350"
+      }
+    ]
+  }
+}
